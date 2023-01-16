@@ -1,4 +1,4 @@
-name: aa-app-interface-stats
+name: CICD
 
 on:
   push:
